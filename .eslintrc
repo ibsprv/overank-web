@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "accessor-pairs": "off",
+    "indent": [2, 4, { "SwitchCase": 1 }],
+    "linebreak-style": [2, "unix"],
+    "strict": [2, "function"],
+    "no-multiple-empty-lines": [2, { "max": 1 }],
+    "max-len": ["error", { "code": 120 }]
+  },
+  "extends": ["esnext", "esnext/style-guide", "airbnb"],
+  "plugins": ["prettier"]
+}

@@ -1,0 +1,15 @@
+{
+  "greeting": [
+    "Happy working with IBsolution TS React Innovation group :D",
+    "Glückliches arbeiten mit IBsolution TS React Innovation Grouppe :D"
+  ],
+  "button": {
+    "hello": {
+      "label": ["Click Me", "Click mich"]
+    }
+  },
+  "label": {
+    "changeTestState": ["Filter state", "State filtern"],
+    "clearTestState": ["Clear filter", "Filter löschen"]
+  }
+}
